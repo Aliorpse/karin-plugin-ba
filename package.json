@@ -1,16 +1,16 @@
 {
-  "name": "karin-plugin-template",
+  "name": "karin-plugin-ba",
   "version": "0.0.1",
-  "description": "karin plugin template",
-  "homepage": "https://github.com/KarinJS/karin-plugin-template",
+  "description": "Blue Archive plugin for Karin",
+  "homepage": "https://github.com/Aliorpse/karin-plugin-ba",
   "bugs": {
-    "url": "https://github.com/KarinJS/karin-plugin-template/issues"
+    "url": "https://github.com/Aliorpse/karin-plugin-ba/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KarinJS/karin-plugin-template.git"
+    "url": "git+https://github.com/Aliorpse/karin-plugin-ba.git"
   },
-  "author": "Lain",
+  "author": "Aliorpse",
   "type": "module",
   "main": "lib/index.js",
   "scripts": {
@@ -42,7 +42,7 @@
     ],
     "exclude": [
       "lib/**/*",
-      "@karinjs/**/*"
+      "@karinJS/**/*"
     ]
   }
 }
