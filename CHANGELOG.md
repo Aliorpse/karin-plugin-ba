@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/Aliorpse/karin-plugin-ba/compare/v0.0.3...v0.0.4) (2025-04-03)
+
+
+### Bug Fixes
+
+* fixed user bind issue ([7c429f7](https://github.com/Aliorpse/karin-plugin-ba/commit/7c429f7f70afd7a42fbebf44abfc184bd22f13b0))
+
 ## [0.0.3](https://github.com/Aliorpse/karin-plugin-ba/compare/v0.0.2...v0.0.3) (2025-04-03)
 
 
