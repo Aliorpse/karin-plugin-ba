@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.0.3](https://github.com/Aliorpse/karin-plugin-ba/compare/v0.0.5...v0.0.3) (2025-04-03)
+
+
+### Features
+
+* auto publish ([c70f6fb](https://github.com/Aliorpse/karin-plugin-ba/commit/c70f6fbb16dd166896de34f45106b40687a5a8f1))
+* test ([7b79ada](https://github.com/Aliorpse/karin-plugin-ba/commit/7b79ada2caf3a9d6cacd57d8d0e5e4c77664ae3c))
+* try it again! ([b29c329](https://github.com/Aliorpse/karin-plugin-ba/commit/b29c329bbd7303071d60c0dd01fef40a8622a8c0))
+* ver 0.0.1 ([3bee6e1](https://github.com/Aliorpse/karin-plugin-ba/commit/3bee6e153ea50afaaf4b357f9e24adad35e09c02))
+* 完善用户绑定逻辑 ([614824d](https://github.com/Aliorpse/karin-plugin-ba/commit/614824d957246cbbdb6d37066cab9d802291d7aa))
+
+
+### Bug Fixes
+
+* .gitignore fixed? ([11a15fb](https://github.com/Aliorpse/karin-plugin-ba/commit/11a15fb9d0f0ceac25a7ee36a889a8474dca31da))
+* fixed user bind issue ([7c429f7](https://github.com/Aliorpse/karin-plugin-ba/commit/7c429f7f70afd7a42fbebf44abfc184bd22f13b0))
+* 应该修好了（也许 ([d55aecf](https://github.com/Aliorpse/karin-plugin-ba/commit/d55aecf5f0a4ff1c9bdead5cfb06ece75ea3df37))
+
 ## [0.0.5](https://github.com/Aliorpse/karin-plugin-ba/compare/v0.0.4...v0.0.5) (2025-04-03)
 
 
