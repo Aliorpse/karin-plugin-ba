@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.0.5](https://github.com/Aliorpse/karin-plugin-ba/compare/v0.0.3...v0.0.5) (2025-04-03)
+
+
+### Features
+
+* 水个优化 ([26ddeb8](https://github.com/Aliorpse/karin-plugin-ba/commit/26ddeb8b18c30b445ef823dfe0fea7c9a6b3aaf3))
+
+
+### Bug Fixes
+
+* fixed user bind issue ([7c429f7](https://github.com/Aliorpse/karin-plugin-ba/commit/7c429f7f70afd7a42fbebf44abfc184bd22f13b0))
+* 应该修好了（也许 ([d55aecf](https://github.com/Aliorpse/karin-plugin-ba/commit/d55aecf5f0a4ff1c9bdead5cfb06ece75ea3df37))
+
 ## [0.0.3](https://github.com/Aliorpse/karin-plugin-ba/compare/v0.0.5...v0.0.3) (2025-04-03)
 
 
