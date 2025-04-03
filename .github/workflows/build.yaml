@@ -29,14 +29,12 @@ jobs:
           bump-minor-pre-major: true
           include-v-in-tag: true
 
-      # ------------ 发布到 npm ------------
       - name: 发布到 npm
         if: ${{ steps.release_please.outputs.release_created }}
         run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      # ------------ 可选：创建 GitHub Release ------------
       - name: 创建 GitHub Release
         if: ${{ steps.release_please.outputs.release_created }}
         uses: softprops/action-gh-release@v1
