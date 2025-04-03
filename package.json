@@ -42,7 +42,7 @@
     ],
     "exclude": [
       "lib/**/*",
-      "@karinJS/**/*"
+      "@karinjs/**/*"
     ]
   }
 }
