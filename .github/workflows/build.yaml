@@ -10,6 +10,11 @@ jobs:
   publish:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+      pull-requests: write 
+      issues: write
+
     steps:
       - name: 拉取代码
         uses: actions/checkout@v4
