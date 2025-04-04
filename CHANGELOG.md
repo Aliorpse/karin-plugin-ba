@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.8](https://github.com/Aliorpse/karin-plugin-ba/compare/v0.0.7...v0.0.8) (2025-04-04)
+
+
+### Features
+
+* fix*2 ([e7ec36a](https://github.com/Aliorpse/karin-plugin-ba/commit/e7ec36acfae9ed047655106768f63088b7376a12))
+
 ## [0.0.7](https://github.com/Aliorpse/karin-plugin-ba/compare/v0.0.6...v0.0.7) (2025-04-04)
 
 
