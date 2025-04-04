@@ -1,1 +1,8 @@
-token: null
+help_custom:
+  title: null
+
+tokens:
+  # 前往 https://aronia.icu 申请 token
+  # 你的 token 格式应该为 "QQ号:一串看不懂的东西" 
+  #   例如：123456789:abcdefghijklmnopqrstuvwxyz
+  arona_icu: null
