@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ currentPath }}/styles.css">
+    <link rel="stylesheet" href="{{ currentPath }}/font.css">
+    <link rel="stylesheet" href="{{ currentPath }}/font2.css">
+</head>
+<body>
+    <div class="halo"></div>
+    <div class="school-emblem trinity"></div>
+    <div class="school-emblem gehenna"></div>
+    <div class="school-emblem millenium"></div>
+    
+    <div class="header">
+        <h1 class="main-title">{{ custom_title }}</h1>
+        <h3 class="sub-title">每项指令的下划线部分为其简写. 例如: ~setdefault 1 等价于 ~sd 1. 大写小写都可以.</h3>
+    </div>
+
+    <div class="menu-container">
+        <div class="columns">
+            <div class="category">
+                <h2>账号绑定</h2>
+                <ul>
+                    <li><span class="command">~<u>b</u>ind 好友码 服序号</span>绑定</li>
+                    <li><span class="command">~servers</span>服务器列表</li>
+                    <li><span class="command">~<u>acc</u>ounts</span>账号列表</li>
+                    <li><span class="command">~<u>del</u>ete 序号</span>解绑账号</li>
+                    <li><span class="command">~<u>s</u>et<u>d</u>efault 序号</span>默认账号</li>
+                </ul>
+            </div>
+
+            <div class="category">
+                <h2>个人信息</h2>
+                <ul>
+                    <li><span class="command">~<u>i</u>nfo</span>个人名片, 可@他人</li>
+                    <li><span class="command">~<u>r</u>ole<u>i</u>nfo 角色名</span>角色信息</li>
+                </ul>
+            </div>
+
+            <div class="category">
+                <h2>图鉴</h2>
+                <ul>
+                    <li><span class="command">~<u>r</u>ole<u>G</u>uide 角色名</span>角色攻略</li>
+                    <li><span class="command">~<u>l</u>evel<u>G</u>uide 关卡号</span>关卡攻略</li>
+                </ul>
+            </div>
+
+            <div class="category">
+                <h2>总力战</h2>
+                <ul>
+                    <li><span class="command">...</span>...</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="school-badge"></div>
+    <div class="copyright">
+        Created by Karin {{ karin_version }} & karin-plugin-ba {{ plugin_version }}
+    </div>
+</body>
+</html>
