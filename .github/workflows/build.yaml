@@ -33,7 +33,6 @@ jobs:
           package-name: "karin-plugin-ba"
           bump-minor-pre-major: true
           include-v-in-tag: true
-          debug: true
 
       - name: 发布到 npm
         if: ${{ steps.release_please.outputs.release_created }}
